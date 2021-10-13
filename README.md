@@ -1,5 +1,7 @@
 ### Hello, I am Cris Araldi 👋
 
+I am web development student at <a href="https://www.betrybe.com/">Trybe</a>.
+
 #### Contact me
 <div>
   ✉️ E-mail: cristhyane.araldi@hotmail.com
