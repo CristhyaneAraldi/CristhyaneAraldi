@@ -1,4 +1,17 @@
-### Olá, eu sou a Cris Araldi 👋
+### Hello, I am Cris Araldi 👋
+
+#### Contact me
+<div>
+  ✉️ E-mail: cristhyane.araldi@hotmail.com
+</div>
+<div>
+  🔗 Linkedin: https://www.linkedin.com/in/cristhyane-araldi/
+</div>
+<div>
+  🖥️ Portfolio: https://cristhyanearaldi.github.io/
+</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/CristhyaneAraldi">
@@ -19,4 +32,5 @@
   
 ##
 
+  #### Contributions
   ![Snake animation](https://github.com/CristhyaneAraldi/CristhyaneAraldi/blob/output/github-contribution-grid-snake.svg)
