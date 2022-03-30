@@ -15,13 +15,7 @@ I am web development student at <a href="https://www.betrybe.com/">Trybe</a>.
 
 ##
 
-<div align="center">
-  <a href="https://github.com/CristhyaneAraldi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CristhyaneAraldi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhyaneAraldi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Cris-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -37,6 +31,15 @@ I am web development student at <a href="https://www.betrybe.com/">Trybe</a>.
   <img align="center" alt="Cris-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Cris-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/CristhyaneAraldi">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CristhyaneAraldi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhyaneAraldi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
   
 ##
 
