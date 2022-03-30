@@ -35,6 +35,7 @@ I am web development student at <a href="https://www.betrybe.com/">Trybe</a>.
   <img align="center" alt="Cris-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
   <img align="center" alt="Cris-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
   <img align="center" alt="Cris-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Cris-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
   
 ##
