@@ -9,9 +9,6 @@ I am web development student at <a href="https://www.betrybe.com/">Trybe</a>.
 <div>
   🔗 Linkedin: https://www.linkedin.com/in/cristhyane-araldi/
 </div>
-<div>
-  🖥️ Portfolio: https://cristhyanearaldi.github.io/
-</div>
 
 ##
 
