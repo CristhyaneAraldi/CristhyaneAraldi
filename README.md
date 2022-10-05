@@ -29,6 +29,7 @@ I am web development student at <a href="https://www.betrybe.com/">Trybe</a>.
   <img align="center" alt="Cris-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Cris-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Cris-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
+  <img align="center" alt="Cris-Rspec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg">
 </div>
 
 ##
