@@ -1,10 +1,10 @@
 ### Hello, I am Cris Araldi 👋
 
-I am web development student at <a href="https://www.betrybe.com/">Trybe</a>.
+I am software engineer at <a href="https://www.rdstation.com/">RD Station</a>.
 
 #### Contact me
 <div>
-  ✉️ E-mail: cristhyane.araldi@hotmail.com
+  ✉️ E-mail: cristhyane.araldi@rdstation.com
 </div>
 <div>
   🔗 Linkedin: https://www.linkedin.com/in/cristhyane-araldi/
